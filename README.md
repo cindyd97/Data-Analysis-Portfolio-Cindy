@@ -20,4 +20,4 @@ This is a repository to showcase skills and share projects in Data Analytics / D
 This section lists all of my completed data analytics projects as well as a brief description of the technology stack utilized to solve each challenge.
 
 ### General Analysis of a Bank's Monthly Profit or Loss
-code: [Pybank.py]([../Python-challenge/Pybank/Pybank_starter.py](https://github.com/cindawwgg/Python-challenge/blob/main/Pybank/PyBank_starter.py))
+code: [Pybank.py](https://github.com/cindawwgg/Python-challenge/blob/main/Pybank/PyBank_starter.py)
