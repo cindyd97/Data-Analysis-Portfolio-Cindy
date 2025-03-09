@@ -15,3 +15,9 @@ This is a repository to showcase skills and share projects in Data Analytics / D
 
 - [About](#About)
 
+
+### Portfolio of Projects ###
+This section lists all of my completed data analytics projects as well as a brief description of the technology stack utilized to solve each challenge.
+
+### General Analysis of a Bank's Monthly Profit or Loss
+code: [Pybank](Python-challenge/Pybank/Pybank_starter.py)
