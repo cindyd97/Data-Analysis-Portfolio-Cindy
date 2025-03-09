@@ -10,4 +10,5 @@ LinkedIn Profile:
 
 This is a repository to showcase skills and share projects in Data Analytics / Data Science related topics.
 
-Table 
+### Table of Contents
+
