@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-### About ###
+## About ##
 
 Hello, I'm Cindy! I have a background in Audit-Accounting and currently, I am on track to completing my Certificate in Data Analytics at University of California, Irvine. I have developed a strong foundation in Financial Audits in the financial services industry and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
 
@@ -11,13 +11,15 @@ LinkedIn Profile:
 
 This is a repository to showcase skills and share projects in Data Analytics / Data Science related topics.
 
-### Table of Contents ###
+## Table of Contents ##
 
 - [About](#About)
 
 
-### Portfolio of Projects ###
+## Portfolio of Challenge Assignments ##
 This section lists all of my completed data analytics projects as well as a brief description of the technology stack utilized to solve each challenge.
 
 ### General Analysis of a Bank's Monthly Profit or Loss
-code: [Pybank.py](https://github.com/cindawwgg/Python-challenge/blob/main/Pybank/PyBank_starter.py)
+Code: [Pybank.py](https://github.com/cindawwgg/Python-challenge/blob/main/Pybank/PyBank_starter.py)
+Goal: To determine the total overall profit, total months, average monthly change, greatest increase in profits, and greatest decrease in profits 
+Description: The assignment entails creating a Python script to analyze the financial records of a company. It includes a financial dataset with Date and Profit/Losses information. The Python script analyzes the records to calculate the total number of months included, the net total amount of "Profit/Losses" over the entire period, the average change in "Profit/Losses" over the entire period, the greatest increase and decrease in profits over the entire period.
