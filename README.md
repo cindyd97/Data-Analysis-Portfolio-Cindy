@@ -17,7 +17,16 @@ This is a repository to showcase skills and share projects in Data Analytics / D
 
 
 ## Portfolio of Challenge Assignments ##
-This section lists all of my completed data analytics projects as well as a brief description of the technology stack utilized to solve each challenge.
+This section lists all of my completed data analytics projects. 
+
+### Analyzing Stock Data Using VBA Coding in Excel
+Git Repo: [Stock-Analysis-VBA-coding](https://github.com/cindawwgg/Stock-Analysis-VBA-coding/tree/main)
+
+Description:
+This assignment analyzes quarterly stock data to find stocks with the greatest increase/decrease and the greatest volume traded for the quarter.
+
+Language:
+Excel - VBA
 
 ### General Analysis of a Bank's Monthly Profit or Loss
 Code: [Pybank.py](https://github.com/cindawwgg/Python-challenge/blob/main/Pybank/PyBank_starter.py)
