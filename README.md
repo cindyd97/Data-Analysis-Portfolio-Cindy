@@ -52,5 +52,11 @@ Description: This assignment creates a Python script, using the Pandas library, 
 Language:
 Pandas - Python
 
-### 
+### Comparing the Performance of Pharmaceutical Drugs
+Git Repo:
+
+Description:
+
+Language:
+
 
