@@ -53,7 +53,7 @@ Language:
 Pandas - Python
 
 ### Comparing the Performance of Pharmaceutical Drugs
-Git Repo:
+Git Repo: [Comparing Pharma Drug Performance Using Matplotlib-Python](https://github.com/cindyd97/Comparing_Pharma_Drug_Performance)
 
 Description:
 
