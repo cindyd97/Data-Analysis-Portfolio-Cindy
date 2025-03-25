@@ -39,7 +39,7 @@ Code: [Poll Python](https://github.com/cindyd97/Bank-Poll-Python/tree/main)
 Description: This part of the assignment includes a Python script that analyzes poll data of a state. It includes a dataset with the County as well as the candidates' names. The script calculates the total number of votes as well as the amount of votes per candidate and their percentage of votes relative to the total number of votes. The script also includes a for loop that finds the winner.
 
 ### Analyzing the City's School District
-Code:
+Code: [Analyzing School Data Using Pandas-Python](https://github.com/cindyd97/Analyzing_School_Data-Pandas-Python
 
 Description:
 
