@@ -81,8 +81,8 @@ Description:
 Language:
 SQL (PostgreSQL in pgAdmin)
 
-### Climate Analysis with SQLAlchemy
-Git Repo: [Climate Analysis Using SQLAlchemy](https://github.com/cindyd97/Climate-Analysis-Using-SQLAlchemy)
+### Climate Analysis with SQLAlchemy and Flask API
+Git Repo: [Climate Analysis Using SQLAlchemy and FLask API](https://github.com/cindyd97/Climate-Analysis-Using-SQLAlchemy-Flask-API)
 
 Description:
 
