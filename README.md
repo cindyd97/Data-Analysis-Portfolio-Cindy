@@ -70,5 +70,28 @@ Vacation Recommendation Description: This part of the assignment utilizes the ci
 Language:
 Python
 
+### Employment Data Analysis With SQL
+Git Repo: [Analyzing Employment Data Using SQL](https://github.com/cindyd97/Employment-Data-Analysis-with-SQL/tree/main)
+
+Description: 
+- Step 1 Data Modeling: An Entity Relationship Diagram is created using QuickDBD to display the relationship of the data tables based on primary and foreign keys found in each table. The diagram links 6 tables based on department ID, employee ID, or title ID.
+- Step 2 Data Engineering: Table schemas are created for each of the 6 CSV files where datatypes, primary keys, foreign keys, and other constraints are specified. Then, each CSV file is imported into the corresponding SQL table
+- Step 3 Data Analysis: This part of the assignment involves joining tables to view employee data based on demographic and salary information. Other steps include filtering employee data based on hire date, listing employees based on department or other internal information to the company, finding employees based on the beginning initial of their name, and finding employees based on a specified department. The code also involves performing frequency counts in descending order for all employees.
+
+Language:
+SQL (PostgreSQL in pgAdmin)
+
+### Climate Analysis with SQLAlchemy
+Git Repo: [Climate Analysis Using SQLAlchemy](https://github.com/cindyd97/Climate-Analysis-Using-SQLAlchemy)
+
+Description:
+
+Language:
+Python and SQLAlchemy
+
+
+
+
+
 
 
