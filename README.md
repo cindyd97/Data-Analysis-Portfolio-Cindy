@@ -68,7 +68,7 @@ Weather Description: This assignment involves creating a python script to visual
 Vacation Recommendation Description: This part of the assignment utilizes the city data that was saved to a CSV file in the first part of this assignment. A visual map is created that plots each city in the city dataset and sizes the plots based on humidity. The city data is filtered with parameters specifying ideal weather conditions for humidity, cloudiness, and windspeed. An API call is used to retrieve the nearest resort based on the ideal weather conditions of the filtered data set using the city name and coordinates. Another visual map is created that plots the resorts based on ideal weather conditions showcasing recommended vacation spots to visit.
 
 Language:
-Python
+Python and API calls
 
 ### Employment Data Analysis With SQL
 Git Repo: [Analyzing Employment Data Using SQL](https://github.com/cindyd97/Employment-Data-Analysis-with-SQL/tree/main)
@@ -84,10 +84,18 @@ SQL (PostgreSQL in pgAdmin)
 ### Climate Analysis with SQLAlchemy and Flask API
 Git Repo: [Climate Analysis Using SQLAlchemy and FLask API](https://github.com/cindyd97/Climate-Analysis-Using-SQLAlchemy-Flask-API)
 
-Description:
+Description: A basic climate analysis and data exploration of the climate database is performed using SQLAlchemy ORM queries, Pandas, and Matplotlib. The code connects to an SQLite database and reflects the tables into classes that are saved to variables. Then, links python to the database by creating a session. The code uses precipitation data to plot precipitation over a period of time. The code also uses temperature data to plot the frequency of temperature as a histogram. A Flask API is designed that includes a homepage and available routes. The first route will display the precipitation graph, the next route will display a JSON list of all stations, and the third route will display the temperature graph. The last route will display minimum temperature, average temperature, and maximum temperature for a specified start or start-end range.
 
 Language:
-Python and SQLAlchemy
+Python, SQLAlchemy, and Flaskk API
+
+### Webscraping Mars Data With Beautiful Soup
+Git Repo: [Webscraping Mars Data with Beautiful Soup](https://github.com/cindyd97/Webscraping-Mars-Data-Beautiful-Soup)
+
+Description: 
+
+Language:
+Python with Beautiful Soup
 
 
 
