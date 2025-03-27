@@ -101,8 +101,20 @@ Python with Beautiful Soup
 Git Repo: [Analyzing Restaurant Data with MongoDB](https://github.com/cindyd97/Analyzing_Restaurant_Data_MongoDB)
 
 Description: 
+- The first part of this assignment involves importing the JSON file into the MongoDB database and using pymongo to connect to the database through python. Other steps involve reading the data, updating the data with new information, and deleting specific rows. Certain fields were also converted to integers.
+- The second part of this assignment entails finding out how many restaurants received a hygiene score of 20. The code also finds all restaurants in London with a rating of 4 or more. The analysis also finds the top 5 establishments with a rating value of 5 sorted by lowest to highest hygiene score that is nearest to the newly added restaurant. Lastly, the code retrieves a list of establishments with a hygiene score of 0.
 
 Language:
 MQL (NoSQL) and Python with Pymongo
+
+### Exploring Belly Button Biodiversity with Javascript and HTML
+Git Repo: [Exploring Belly Button Biodiversity with Javascript and HTML](https://github.com/cindyd97/Exploring_Bellybutton_Biodiversity_with_Javascript_and_HTML)
+
+Description:
+
+Language:
+
+
+
 
 
