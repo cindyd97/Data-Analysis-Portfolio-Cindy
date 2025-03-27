@@ -117,7 +117,14 @@ Description:
 Language:
 Javascript and HTML
 
-###
+### 
+Git Repo: [Earthquakes and Tectonic Plates with Leaflet and Javascript](https://github.com/cindyd97/Earthquakes_Tectonic_Plates_Leaflet_Javascript)
+
+Description:
+
+
+Language:
+Javascript, HTML, and CSS
 
 
 
