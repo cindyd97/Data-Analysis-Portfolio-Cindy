@@ -111,8 +111,8 @@ MQL (NoSQL) and Python with Pymongo
 Git Repo: [Exploring Belly Button Biodiversity with Javascript and HTML](https://github.com/cindyd97/Exploring_Bellybutton_Biodiversity_with_Javascript_and_HTML)
 
 Description:
-This JavaScript code is used to build a data visualization dashboard that displays metadata and charts related to biological samples. It utilizes the D3.js library for data manipulation and Plotly.js for creating interactive charts. This code creates an interactive dashboard that allows users to select different biological samples from a dropdown menu and see corresponding metadata and visualizations (Bubble and Bar charts) based on the selected sample.
-This HTML code represents a complete structure for a web page that serves as a dashboard for exploring a dataset related to Belly Button Biodiversity. It includes interactive elements that allow users to select different samples and view corresponding demographic information and visualizations.
+- This JavaScript code is used to build a data visualization dashboard that displays metadata and charts related to biological samples. It utilizes the D3.js library for data manipulation and Plotly.js for creating interactive charts. This code creates an interactive dashboard that allows users to select different biological samples from a dropdown menu and see corresponding metadata and visualizations (Bubble and Bar charts) based on the selected sample.
+- This HTML code represents a complete structure for a web page that serves as a dashboard for exploring a dataset related to Belly Button Biodiversity. It includes interactive elements that allow users to select different samples and view corresponding demographic information and visualizations.
 
 Language:
 Javascript and HTML
