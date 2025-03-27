@@ -103,7 +103,6 @@ Git Repo: [Analyzing Restaurant Data with MongoDB](https://github.com/cindyd97/A
 Description: 
 
 Language:
-- MQL (NoSQL)
-- Python with Pymongo
+MQL (NoSQL) and Python with Pymongo
 
 
