@@ -16,7 +16,7 @@ This is a repository to showcase skills and share projects in Data Analytics / D
 - [About](#About)
 
 
-## Portfolio of Challenge Assignments ##
+## Portfolio of Projects ##
 This section lists all of my completed data analytics projects. 
 
 ### Analyzing Stock Data Using VBA Coding in Excel
