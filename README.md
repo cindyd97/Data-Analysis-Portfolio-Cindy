@@ -135,7 +135,6 @@ Description:
 With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
 
 ### Cryptocurrency Clustering with Unsupervised Machine Learning
-
 Git Repo: [Crypto-Clustering Unsupervised Machine Learning](https://github.com/cindyd97/Crypto-Clustering_Unsupervised-Machine-Learning/tree/main)
 
 Description: 
@@ -143,4 +142,19 @@ Clustering and unsupervised learning is used to predict if cryptocurrencies are 
 
 Language:
 Python with scikit-learn
+
+### Credit Risk Classification with Supervised Machine Learning
+Git Repo: 
+
+Description:
+* The purpose of this analysis is to train and evaluate certain supervised machine learning models based on the risk of loans. 
+* The dataset consists of historical lending activity from a peer-to-peer lending services company. The assignment entails that the analyst build a model that can correctly predict whether a loan is healthy or high-risk based on training data. 
+* The dependent variable is the `loan_status` column and the labels are either healthy loan (0) or high-risk loan (1).
+* After describing the purpose and where the data is from, the process includes splitting the data for training and testing sets. Then the code utilizes the logistic regression model followed by an evaluation using the confusion matrix and classification report. 
+*  Other steps include trying out different models (Support Vector Machine learning, Decision Tree Learning, as well as K Nearest Neighbors).
+
+Language:
+Python with scikit-learn
+
+
 
