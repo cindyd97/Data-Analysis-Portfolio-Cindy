@@ -134,5 +134,13 @@ Tableau Public Link: [Tableau Public Link - Citibike Story](https://public.table
 Description:
 With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
 
-###
+### Cryptocurrency Clustering with Unsupervised Machine Learning
+
+Git Repo: [Crypto-Clustering Unsupervised Machine Learning](https://github.com/cindyd97/Crypto-Clustering_Unsupervised-Machine-Learning/tree/main)
+
+Description: 
+Clustering and unsupervised learning is used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. The data is prepared and normalized using the standardscaler() module from scikit-learn. The elbow method is applied to find the best k value with a for loop and inertia. The data is modeled and fitted using Kmeans. The data is simplified using PCA to reduce the amount of features in the data set. The data is plotted in a scatter-gram format to showcase the clusters of the data.
+
+Language:
+Python with scikit-learn
 
