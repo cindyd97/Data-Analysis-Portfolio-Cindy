@@ -144,7 +144,7 @@ Language:
 Python with scikit-learn
 
 ### Credit Risk Classification with Supervised Machine Learning
-Git Repo: 
+Git Repo: https://github.com/cindyd97/Credit_Risk_Classification_Supervised-Machine-Learning/tree/main
 
 Description:
 * The purpose of this analysis is to train and evaluate certain supervised machine learning models based on the risk of loans. 
