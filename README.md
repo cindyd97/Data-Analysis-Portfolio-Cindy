@@ -128,6 +128,11 @@ Description:
 Language:
 Javascript, HTML, and CSS
 
+### Citibike Story with Tableau
+Tableau Public Link: [Tableau Public Link - Citibike Story](https://public.tableau.com/app/profile/cindy.duong2876/viz/Mod18Challenge_17406199793550/CitibikeStory?publish=yes)
 
+Description:
+With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
 
+###
 
