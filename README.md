@@ -157,7 +157,7 @@ Language:
 Python with scikit-learn
 
 ### Funding with Deep Learning
-Git Repo: 
+Git Repo: [Funding with Deep Learning](https://github.com/cindyd97/Funding_with-Deep-Learning)
 
 Description:
 The purpose of this analysis is to create a tool that will assist a nonprofit organization in selecting applicants for funding with the best chance of success. The tool is a binary classifier that can predict an applicant’s success or not, if funded by the nonprofit organization. The label column is the column indicating if the applicant was successful or not, 'IS_SUCCESSFUL'. The remaining columns are features utilized in the model that would assist in the learning. They provide insight into the data for the model to learn how to predict new data. However, columns that serve the purpose of identification, should be removed as they don’t serve a relevant purpose in the model’s learning.
