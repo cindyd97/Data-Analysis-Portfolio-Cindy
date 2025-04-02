@@ -171,7 +171,7 @@ We are a group of data analysts exploring the data on the usage of social media 
 Language:
 Python (with pathlib, pandas, matplotlib, and scipy.stats)
 
-### Extracting, Transforming, and Loading Crowdfunding Data
+### Extracting, Transforming, and Loading Crowdfunding Data (Group Project)
 Git Repo: [Crowdfunding with ETL](https://github.com/cindyd97/Crowdfunding_with_ETL)
 
 Description:
