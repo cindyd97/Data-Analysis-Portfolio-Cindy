@@ -151,6 +151,24 @@ Description:
 Language:
 Python with scikit-learn
 
+### Analyzing Social Media and Emotions (Group Project)
+Git Repo: [Social Media and Emotions](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions)
+
+Description:
+This group project includes exploring the data on the usage of social media and emotional well-being. Social media has grown to become part of our modern day-to-day lives having an influence over various aspects of our emotional well-being. We will be analyzing demographic factors (age, gender), social media platform statistical factors (platform app, usage time, activity type), and emotional state factors (Happiness, Sadness, Anger, Anxiety, Boredom, Neutral). The group seeks to understand the relationship, if any, that may exist between these variables. This analysis will explore the dataset over platform activity and users’ emotional state, discuss our thought process of exploration, and include any conclusions found.
+
+Language:
+Python (with pathlib, pandas, matplotlib, and scipy.stats)
+
+### Credit Score and Loan Prediction (Group Project)
+Git Repo: [Credit Score and Loan Prediction](https://github.com/cindyd97/Credit-Score-Loan-Default-Prediction)
+
+Description:
+This group project involves creating a machine learning model that classifies a bank's customers based on their credit score and credit information. The group also created a machine learning model that predicts whether a client's loan application is default or not based on specific features related to their demographics, education, payment history, annual income data, etc. Banks and financial services institutions utilize credit score classification to assess a borrower's creditworthiness, enabling them to make calculated decisions about managing risk and profitability. There are 5 credit score brackets that a person can fall into, however, for simplicity purposes, our project will focus on 3 categories of credit which are Good, Standard, or Bad. Financial loan services are utilized by many companies, especially, in the financial services and banking industry. The goal of financial loan services is to mitigate the risk of default payments and ensure that clients are paying back their loans in compliance with their loan contract. Clients will either be deemed default (high risk) or not (low risk).
+
+Language:
+Python Machine learning - Neural Networks (google.colab)
+
 ### Funding with Deep Learning
 Git Repo: [Funding with Deep Learning](https://github.com/cindyd97/Funding_with-Deep-Learning)
 
@@ -162,15 +180,6 @@ The model utilizes ‘relu’ as the activation with the first hidden layer havi
 Language:
 Python (with Tensor Flow)
 
-### Analyzing Social Media and Emotions (Group Project)
-Git Repo: [Social Media and Emotions](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions)
-
-Description:
-We are a group of data analysts exploring the data on the usage of social media and emotional well-being. Social media has grown to become part of our modern day-to-day lives having an influence over various aspects of our emotional well-being. We will be analyzing demographic factors (age, gender), social media platform statistical factors (platform app, usage time, activity type), and emotional state factors (Happiness, Sadness, Anger, Anxiety, Boredom, Neutral). We seek to understand the relationship, if any, that may exist between these variables while also acknowledging that we are not experts and can only draw conclusions about the information in this dataset. This analysis will explore the dataset over platform activity and users’ emotional state, discuss our thought process of exploration, and include any conclusions found.
-
-Language:
-Python (with pathlib, pandas, matplotlib, and scipy.stats)
-
 ### Extracting, Transforming, and Loading Crowdfunding Data (Group Project)
 Git Repo: [Crowdfunding with ETL](https://github.com/cindyd97/Crowdfunding_with_ETL)
 
@@ -180,15 +189,6 @@ This project includes building an ETL pipeline using both python dictionary meth
 Language:
 - Python (with numpy and pandas)
 - SQL
-
-### 
-
-
-
-
-
-
-
 
 
 
