@@ -145,6 +145,7 @@ Description:
 With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
 
 Data Source:
+Citi Bike. "System Data." Citi Bike NYC, 2025, https://citibikenyc.com/system-data.
 
 ## SQL
 [Back to top](#Contents)
