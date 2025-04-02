@@ -100,7 +100,8 @@ Description: This part of the assignment includes a Python script that analyzes 
 Language:
 Python
 
-## Javascript and HTML
+## Javascript
+## and HTML
 
 ### Exploring Belly Button Biodiversity with Javascript and HTML
 Git Repo: [Exploring Belly Button Biodiversity with Javascript and HTML](https://github.com/cindyd97/Exploring_Bellybutton_Biodiversity_with_Javascript_and_HTML)
