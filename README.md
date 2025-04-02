@@ -12,7 +12,7 @@ This is a repository to showcase skills and share projects in Data Analytics / D
 ## Portfolio of Projects ##
 This section lists all of my completed data analytics projects. 
 
-### Each Git Repo includes the data source as well as project contents
+### Each Git Repo includes the data source as well as project contents (see READMe)
 
 ### Analyzing Stock Data Using VBA Coding in Excel
 Git Repo: [Stock-Analysis-VBA-coding](https://github.com/cindawwgg/Stock-Analysis-VBA-coding/tree/main)
