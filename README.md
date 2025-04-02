@@ -131,13 +131,12 @@ Javascript, HTML, and CSS
 Tableau Public Link:
 - [Tableau Public Dashboard - Loan Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankLoanStatistics/LoanStatistics?publish=yes)
 
-- [Tableau Public Dashboard - Credit Data]()
+- [Tableau Public Dashboard - Credit Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankClientStatistics/CreditStatistics?publish=yes)
 
 Description:
 These visuals were created to further understand the bank's client data. The dataset was cleaned at [Credit Score and Loan Prediction (Group Project)](#Machine)
 - The Loan Data link has a story. The first page displays a bar chart of the average DTI ratio for people with or without a default loan as well as with or without a mortgage. The second page is a bar chart that shows the average interest rate for people by education (High School, Bachelor's, Master's, PhD) and is also categorized by risk. The third page is a bar chart that portrays average income by risk status.
-- 
-
+- The Credit Data link has 2 dashboards (Credit Statistics & Credit Statistics2). The first dashboard has a scatterplot that compares payment behavior according to occupation and average monthly salary. There is also a bar chart that displays the average annual income by occupation. The second dashboard has a pie chart that compares the average amount of monthly investments by credit score category. There is also a bar chart that displays the average number of delayed payments by credit score categories. The other bar chart shows the average annual income for each credit score category. 
 
 ### Citibike Story with Tableau
 Tableau Public Link: [Tableau Public Link - Citibike Story](https://public.tableau.com/app/profile/cindy.duong2876/viz/Mod18Challenge_17406199793550/CitibikeStory?publish=yes)
