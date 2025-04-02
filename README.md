@@ -10,7 +10,7 @@ LinkedIn Profile:
 This is a repository to showcase skills and share projects in Data Analytics / Data Science related topics.
 
 ## Portfolio of Projects ##
-This section lists all of my completed data analytics projects. 
+This is a list of all of my completed data analytics projects. 
 
 ### Each Git Repo includes the data source as well as project contents (see READMe)
 ## Contents
