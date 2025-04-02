@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio
 ## About ##
 
-Hello, I'm Cindy! I have a background in Audit-Accounting and currently, I am on track to completing my Certificate in Data Analytics at University of California, Irvine. I have developed a strong foundation in Financial Audits in the financial services industry and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
+Hello, I'm Cindy! I have a background in Audit-Accounting and I recently completed my Certificate in Data Analytics at University of California, Irvine. I have developed a strong foundation in Financial Audits in the financial services industry and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
 
 In the past 6 months, I have dedicated time to expanding my expertise in data analytics where I am strengthening my skills in Python, SQL, data modeling, and data visualization (Tableau/Power BI). I am particularly interested in leveraging these skills to enhance data-driven insights in asset management, risk modeling, and financial performance analysis.
 
@@ -134,12 +134,18 @@ Tableau Public Link:
 - Tableau Public Dashboard - Credit Data
 
 Description:
+These visuals were created to further understand the bank's client data. The dataset was cleaned at [Credit Score and Loan Prediction (Group Project)](#Credit)
+- The Loan Data link has a story. The first page displays a bar chart of the average DTI ratio for people with or without a default loan as well as with or without a mortgage. The second page is a bar chart that shows the average interest rate for people by education (High School, Bachelor's, Master's, PhD) and is also categorized by risk. The third page is a bar chart that portrays average income by risk status.
+- 
+
 
 ### Citibike Story with Tableau
 Tableau Public Link: [Tableau Public Link - Citibike Story](https://public.tableau.com/app/profile/cindy.duong2876/viz/Mod18Challenge_17406199793550/CitibikeStory?publish=yes)
 
 Description:
 With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
+
+Data Source:
 
 ## SQL
 [Back to top](#Contents)
