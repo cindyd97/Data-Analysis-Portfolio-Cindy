@@ -14,15 +14,6 @@ This section lists all of my completed data analytics projects.
 
 ### Each Git Repo includes the data source as well as project contents (see READMe)
 
-### Analyzing Stock Data Using VBA Coding in Excel
-Git Repo: [Stock-Analysis-VBA-coding](https://github.com/cindawwgg/Stock-Analysis-VBA-coding/tree/main)
-
-Description:
-This assignment analyzes quarterly stock data to find stocks with the greatest increase/decrease and the greatest volume traded for the quarter.
-
-Language:
-Excel - VBA
-
 ### General Analysis of a Bank's Monthly Profit or Loss
 Git Repo: [Bank Python](https://github.com/cindyd97/Bank-Poll-Python/tree/main)
 
@@ -160,6 +151,21 @@ This group project includes exploring the data on the usage of social media and 
 Language:
 Python (with pathlib, pandas, matplotlib, and scipy.stats)
 
+
+
+
+### Extracting, Transforming, and Loading Crowdfunding Data (Group Project)
+Git Repo: [Crowdfunding with ETL](https://github.com/cindyd97/Crowdfunding_with_ETL)
+
+Description:
+This project includes building an ETL pipeline using both python dictionary methods and regular expressions to extract and transform the data. Dataframes with unique IDs are created from the CSV files to upload to Postgres where the table schemas can be merged with the unique IDs.
+
+Language:
+- Python (with numpy and pandas)
+- SQL
+
+## Python
+
 ### Credit Score and Loan Prediction (Group Project)
 Git Repo: [Credit Score and Loan Prediction](https://github.com/cindyd97/Credit-Score-Loan-Default-Prediction)
 
@@ -180,16 +186,17 @@ The model utilizes ‘relu’ as the activation with the first hidden layer havi
 Language:
 Python (with Tensor Flow)
 
-### Extracting, Transforming, and Loading Crowdfunding Data (Group Project)
-Git Repo: [Crowdfunding with ETL](https://github.com/cindyd97/Crowdfunding_with_ETL)
+
+
+
+## Excel VBA
+
+### Analyzing Stock Data Using VBA Coding in Excel
+Git Repo: [Stock-Analysis-VBA-coding](https://github.com/cindawwgg/Stock-Analysis-VBA-coding/tree/main)
 
 Description:
-This project includes building an ETL pipeline using both python dictionary methods and regular expressions to extract and transform the data. Dataframes with unique IDs are created from the CSV files to upload to Postgres where the table schemas can be merged with the unique IDs.
+This assignment analyzes quarterly stock data to find stocks with the greatest increase/decrease and the greatest volume traded for the quarter.
 
 Language:
-- Python (with numpy and pandas)
-- SQL
-
-
-
+Excel - VBA
 
