@@ -15,12 +15,12 @@ This is a list of all of my completed data analytics projects.
 
 ### Each Git Repo includes the data source as well as project contents (see READMe of each Git Repo)
 ## Contents
-- [Python](#Python)
-- [Javascript and HTML](#Javascript)
-- [Tableau](#Tableau)
-- [SQL](#SQL)
-- [Python (Machine Learning)](#Machine)
-- [Excel - VBA](#Excel)
+- [Python Projects](#Python)
+- [Javascript and HTML Projects](#Javascript)
+- [Tableau Work](#Tableau)
+- [SQL Projects](#SQL)
+- [Python (Machine Learning) Projects](#Machine)
+- [Excel - VBA Work](#Excel)
 
 ## Python
 [Back to top](#Contents)
