@@ -105,33 +105,21 @@ Description:
 Language:
 Javascript, HTML, and CSS
 
+### Tableau
+
+### Understanding Banking Data
+Tableau Public Link:
+- Tableau Public Dashboard - Loan Data
+
+- Tableau Public Dashboard - Credit Data
+
+Description:
+
 ### Citibike Story with Tableau
 Tableau Public Link: [Tableau Public Link - Citibike Story](https://public.tableau.com/app/profile/cindy.duong2876/viz/Mod18Challenge_17406199793550/CitibikeStory?publish=yes)
 
 Description:
 With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
-
-### Cryptocurrency Clustering with Unsupervised Machine Learning
-Git Repo: [Crypto-Clustering Unsupervised Machine Learning](https://github.com/cindyd97/Crypto-Clustering_Unsupervised-Machine-Learning/tree/main)
-
-Description: 
-Clustering and unsupervised learning is used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. The data is prepared and normalized using the standardscaler() module from scikit-learn. The elbow method is applied to find the best k value with a for loop and inertia. The data is modeled and fitted using Kmeans. The data is simplified using PCA to reduce the amount of features in the data set. The data is plotted in a scatter-gram format to showcase the clusters of the data.
-
-Language:
-Python with scikit-learn
-
-### Credit Risk Classification with Supervised Machine Learning
-Git Repo: https://github.com/cindyd97/Credit_Risk_Classification_Supervised-Machine-Learning/tree/main
-
-Description:
-* The purpose of this analysis is to train and evaluate certain supervised machine learning models based on the risk of loans. 
-* The dataset consists of historical lending activity from a peer-to-peer lending services company. The assignment entails that the analyst build a model that can correctly predict whether a loan is healthy or high-risk based on training data. 
-* The dependent variable is the `loan_status` column and the labels are either healthy loan (0) or high-risk loan (1).
-* After describing the purpose and where the data is from, the process includes splitting the data for training and testing sets. Then the code utilizes the logistic regression model followed by an evaluation using the confusion matrix and classification report. 
-*  Other steps include trying out different models (Support Vector Machine learning, Decision Tree Learning, as well as K Nearest Neighbors).
-
-Language:
-Python with scikit-learn
 
 ### Analyzing Social Media and Emotions (Group Project)
 Git Repo: [Social Media and Emotions](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions)
@@ -141,6 +129,8 @@ This group project includes exploring the data on the usage of social media and 
 
 Language:
 Python (with pathlib, pandas, matplotlib, and scipy.stats)
+
+## SQL
 
 ### Employment Data Analysis With SQL
 Git Repo: [Analyzing Employment Data Using SQL](https://github.com/cindyd97/Employment-Data-Analysis-with-SQL/tree/main)
@@ -153,14 +143,6 @@ Description:
 Language:
 SQL (PostgreSQL in pgAdmin)
 
-### Climate Analysis with SQLAlchemy and Flask API
-Git Repo: [Climate Analysis Using SQLAlchemy and FLask API](https://github.com/cindyd97/Climate-Analysis-Using-SQLAlchemy-Flask-API)
-
-Description: A basic climate analysis and data exploration of the climate database is performed using SQLAlchemy ORM queries, Pandas, and Matplotlib. The code connects to an SQLite database and reflects the tables into classes that are saved to variables. Then, links python to the database by creating a session. The code uses precipitation data to plot precipitation over a period of time. The code also uses temperature data to plot the frequency of temperature as a histogram. A Flask API is designed that includes a homepage and available routes. The first route will display the precipitation graph, the next route will display a JSON list of all stations, and the third route will display the temperature graph. The last route will display minimum temperature, average temperature, and maximum temperature for a specified start or start-end range.
-
-Language:
-Python, SQLAlchemy, and Flaskk API
-
 ### Extracting, Transforming, and Loading Crowdfunding Data (Group Project)
 Git Repo: [Crowdfunding with ETL](https://github.com/cindyd97/Crowdfunding_with_ETL)
 
@@ -171,7 +153,7 @@ Language:
 - Python (with numpy and pandas)
 - SQL
 
-## Python
+## Python (Machine Learning)
 
 ### Credit Score and Loan Prediction (Group Project)
 Git Repo: [Credit Score and Loan Prediction](https://github.com/cindyd97/Credit-Score-Loan-Default-Prediction)
@@ -193,8 +175,27 @@ The model utilizes ‘relu’ as the activation with the first hidden layer havi
 Language:
 Python (with Tensor Flow)
 
+### Credit Risk Classification with Supervised Machine Learning
+Git Repo: https://github.com/cindyd97/Credit_Risk_Classification_Supervised-Machine-Learning/tree/main
 
+Description:
+* The purpose of this analysis is to train and evaluate certain supervised machine learning models based on the risk of loans. 
+* The dataset consists of historical lending activity from a peer-to-peer lending services company. The assignment entails that the analyst build a model that can correctly predict whether a loan is healthy or high-risk based on training data. 
+* The dependent variable is the `loan_status` column and the labels are either healthy loan (0) or high-risk loan (1).
+* After describing the purpose and where the data is from, the process includes splitting the data for training and testing sets. Then the code utilizes the logistic regression model followed by an evaluation using the confusion matrix and classification report. 
+*  Other steps include trying out different models (Support Vector Machine learning, Decision Tree Learning, as well as K Nearest Neighbors).
 
+Language:
+Python with scikit-learn
+
+### Cryptocurrency Clustering with Unsupervised Machine Learning
+Git Repo: [Crypto-Clustering Unsupervised Machine Learning](https://github.com/cindyd97/Crypto-Clustering_Unsupervised-Machine-Learning/tree/main)
+
+Description: 
+Clustering and unsupervised learning is used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. The data is prepared and normalized using the standardscaler() module from scikit-learn. The elbow method is applied to find the best k value with a for loop and inertia. The data is modeled and fitted using Kmeans. The data is simplified using PCA to reduce the amount of features in the data set. The data is plotted in a scatter-gram format to showcase the clusters of the data.
+
+Language:
+Python with scikit-learn
 
 ## Excel VBA
 
