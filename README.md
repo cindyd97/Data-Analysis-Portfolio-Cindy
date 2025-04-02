@@ -13,7 +13,7 @@ This is a repository to showcase skills and share projects in Data Analytics / D
 ## Portfolio of Projects ##
 This is a list of all of my completed data analytics projects. 
 
-### Each Git Repo includes the data source as well as project contents (see READMe)
+### Each Git Repo includes the data source as well as project contents (see READMe of each Git Repo)
 ## Contents
 - [Python](#Python)
 - [Javascript and HTML](#Javascript)
