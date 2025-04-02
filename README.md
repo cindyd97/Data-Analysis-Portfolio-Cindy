@@ -129,9 +129,9 @@ Javascript, HTML, and CSS
 [Back to top](#Contents)
 ### Understanding Banking Data
 Tableau Public Link:
-- Tableau Public Dashboard - Loan Data
+- [Tableau Public Dashboard - Loan Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankLoanStatistics/LoanStatistics?publish=yes)
 
-- Tableau Public Dashboard - Credit Data
+- [Tableau Public Dashboard - Credit Data]()
 
 Description:
 These visuals were created to further understand the bank's client data. The dataset was cleaned at [Credit Score and Loan Prediction (Group Project)](#Machine)
