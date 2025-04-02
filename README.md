@@ -5,19 +5,14 @@ Hello, I'm Cindy! I have a background in Audit-Accounting and currently, I am on
 
 In the past 6 months, I have dedicated time to expanding my expertise in data analytics where I am strengthening my skills in Python, SQL, data modeling, and data visualization (Tableau/Power BI). I am particularly interested in leveraging these skills to enhance data-driven insights in asset management, risk modeling, and financial performance analysis.
 
-Please see "" for my resume
-
 LinkedIn Profile: 
 
 This is a repository to showcase skills and share projects in Data Analytics / Data Science related topics.
 
-## Table of Contents ##
-
-- [About](#About)
-
-
 ## Portfolio of Projects ##
 This section lists all of my completed data analytics projects. 
+
+### Each Git Repo includes the data source as well as project contents
 
 ### Analyzing Stock Data Using VBA Coding in Excel
 Git Repo: [Stock-Analysis-VBA-coding](https://github.com/cindawwgg/Stock-Analysis-VBA-coding/tree/main)
