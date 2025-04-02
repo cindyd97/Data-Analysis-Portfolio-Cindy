@@ -134,7 +134,7 @@ Tableau Public Link:
 - Tableau Public Dashboard - Credit Data
 
 Description:
-These visuals were created to further understand the bank's client data. The dataset was cleaned at [Credit Score and Loan Prediction (Group Project)](#Credit)
+These visuals were created to further understand the bank's client data. The dataset was cleaned at [Credit Score and Loan Prediction (Group Project)](#Machine)
 - The Loan Data link has a story. The first page displays a bar chart of the average DTI ratio for people with or without a default loan as well as with or without a mortgage. The second page is a bar chart that shows the average interest rate for people by education (High School, Bachelor's, Master's, PhD) and is also categorized by risk. The third page is a bar chart that portrays average income by risk status.
 - 
 
