@@ -172,3 +172,24 @@ Language:
 Python (with pathlib, pandas, matplotlib, and scipy.stats)
 
 ### Extracting, Transforming, and Loading Crowdfunding Data
+Git Repo: [Crowdfunding with ETL](https://github.com/cindyd97/Crowdfunding_with_ETL)
+
+Description:
+This project includes building an ETL pipeline using both python dictionary methods and regular expressions to extract and transform the data. Dataframes with unique IDs are created from the CSV files to upload to Postgres where the table schemas can be merged with the unique IDs.
+
+Language:
+- Python (with numpy and pandas)
+- SQL
+
+### 
+
+
+
+
+
+
+
+
+
+
+
