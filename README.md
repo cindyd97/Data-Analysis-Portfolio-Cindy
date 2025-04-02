@@ -6,6 +6,7 @@ Hello, I'm Cindy! I have a background in Audit-Accounting and currently, I am on
 In the past 6 months, I have dedicated time to expanding my expertise in data analytics where I am strengthening my skills in Python, SQL, data modeling, and data visualization (Tableau/Power BI). I am particularly interested in leveraging these skills to enhance data-driven insights in asset management, risk modeling, and financial performance analysis.
 
 LinkedIn Profile: 
+www.linkedin.com/in/cindy-duong97
 
 This is a repository to showcase skills and share projects in Data Analytics / Data Science related topics.
 
