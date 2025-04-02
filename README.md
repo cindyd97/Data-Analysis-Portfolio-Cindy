@@ -192,7 +192,7 @@ Language:
 Python (with Tensor Flow)
 
 ### Credit Risk Classification with Supervised Machine Learning
-Git Repo: https://github.com/cindyd97/Credit_Risk_Classification_Supervised-Machine-Learning/tree/main
+Git Repo: [Credit Risk Classification with Supervised Machine Learning](https://github.com/cindyd97/Credit_Risk_Classification_Supervised-Machine-Learning/tree/main)
 
 Description:
 * The purpose of this analysis is to train and evaluate certain supervised machine learning models based on the risk of loans. 
