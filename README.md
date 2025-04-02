@@ -74,6 +74,15 @@ Description: The first part of the assignment utilizes beautiful soup to extract
 Language:
 Python with Beautiful Soup
 
+### Analyzing Social Media and Emotions (Group Project)
+Git Repo: [Social Media and Emotions](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions)
+
+Description:
+This group project includes exploring the data on the usage of social media and emotional well-being. Social media has grown to become part of our modern day-to-day lives having an influence over various aspects of our emotional well-being. We will be analyzing demographic factors (age, gender), social media platform statistical factors (platform app, usage time, activity type), and emotional state factors (Happiness, Sadness, Anger, Anxiety, Boredom, Neutral). The group seeks to understand the relationship, if any, that may exist between these variables. This analysis will explore the dataset over platform activity and users’ emotional state, discuss our thought process of exploration, and include any conclusions found.
+
+Language:
+Python (with pathlib, pandas, matplotlib, and scipy.stats)
+
 ### Analyzing Restaurant Data Using MongoDB/Pymongo
 Git Repo: [Analyzing Restaurant Data with MongoDB](https://github.com/cindyd97/Analyzing_Restaurant_Data_MongoDB)
 
@@ -83,6 +92,8 @@ Description:
 
 Language:
 MQL (NoSQL) and Python with Pymongo
+
+## Javascript and HTML
 
 ### Exploring Belly Button Biodiversity with Javascript and HTML
 Git Repo: [Exploring Belly Button Biodiversity with Javascript and HTML](https://github.com/cindyd97/Exploring_Bellybutton_Biodiversity_with_Javascript_and_HTML)
@@ -120,15 +131,6 @@ Tableau Public Link: [Tableau Public Link - Citibike Story](https://public.table
 
 Description:
 With citibike data, graphs were created to portray a story on the usage of citibikes in NYC. The story focused on bike data from the spring of 2022 taking a look at peak hours, top 10 starting locations, types of members, and mapping of bike stations.
-
-### Analyzing Social Media and Emotions (Group Project)
-Git Repo: [Social Media and Emotions](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions)
-
-Description:
-This group project includes exploring the data on the usage of social media and emotional well-being. Social media has grown to become part of our modern day-to-day lives having an influence over various aspects of our emotional well-being. We will be analyzing demographic factors (age, gender), social media platform statistical factors (platform app, usage time, activity type), and emotional state factors (Happiness, Sadness, Anger, Anxiety, Boredom, Neutral). The group seeks to understand the relationship, if any, that may exist between these variables. This analysis will explore the dataset over platform activity and users’ emotional state, discuss our thought process of exploration, and include any conclusions found.
-
-Language:
-Python (with pathlib, pandas, matplotlib, and scipy.stats)
 
 ## SQL
 
