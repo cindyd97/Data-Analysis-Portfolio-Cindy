@@ -15,11 +15,11 @@ This section lists all of my completed data analytics projects.
 ### Each Git Repo includes the data source as well as project contents (see READMe)
 ## Contents
 - [Python](#Python)
-- Javascript and HTML
-- Tableau
+- [Javascript and HTML](#Javascript)
+- [Tableau](#Tableau)
 - [SQL](#SQL)
-- Python (Machine Learning)
-- Excel - VBA
+- [Python (Machine Learning)](#Machine)
+- [Excel - VBA](#Excel)
 
 ## Python
 
@@ -162,7 +162,7 @@ Language:
 - Python (with numpy and pandas)
 - SQL
 
-## Python (Machine Learning)
+## Machine Learning - Python
 [Back to top](#Contents)
 ### Credit Score and Loan Prediction (Group Project)
 Git Repo: [Credit Score and Loan Prediction](https://github.com/cindyd97/Credit-Score-Loan-Default-Prediction)
