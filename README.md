@@ -162,3 +162,13 @@ The model utilizes ‘relu’ as the activation with the first hidden layer havi
 Language:
 Python (with Tensor Flow)
 
+### Analyzing Social Media and Emotions (Group Project)
+Git Repo: [Social Media and Emotions](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions)
+
+Description:
+We are a group of data analysts exploring the data on the usage of social media and emotional well-being. Social media has grown to become part of our modern day-to-day lives having an influence over various aspects of our emotional well-being. We will be analyzing demographic factors (age, gender), social media platform statistical factors (platform app, usage time, activity type), and emotional state factors (Happiness, Sadness, Anger, Anxiety, Boredom, Neutral). We seek to understand the relationship, if any, that may exist between these variables while also acknowledging that we are not experts and can only draw conclusions about the information in this dataset. This analysis will explore the dataset over platform activity and users’ emotional state, discuss our thought process of exploration, and include any conclusions found.
+
+Language:
+Python (with pathlib, pandas, matplotlib, and scipy.stats)
+
+### Extracting, Transforming, and Loading Crowdfunding Data
