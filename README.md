@@ -22,7 +22,7 @@ This section lists all of my completed data analytics projects.
 - [Excel - VBA](#Excel)
 
 ## Python
-
+[Back to top](#Contents)
 ### Analyzing the City's School District
 Git Repo: [Analyzing School Data Using Pandas-Python](https://github.com/cindyd97/Analyzing_School_Data-Pandas-Python)
 
@@ -102,7 +102,7 @@ Python
 
 ## Javascript
 ## and HTML
-
+[Back to top](#Contents)
 ### Exploring Belly Button Biodiversity with Javascript and HTML
 Git Repo: [Exploring Belly Button Biodiversity with Javascript and HTML](https://github.com/cindyd97/Exploring_Bellybutton_Biodiversity_with_Javascript_and_HTML)
 
@@ -125,7 +125,7 @@ Language:
 Javascript, HTML, and CSS
 
 ### Tableau
-
+[Back to top](#Contents)
 ### Understanding Banking Data
 Tableau Public Link:
 - Tableau Public Dashboard - Loan Data
@@ -163,7 +163,8 @@ Language:
 - Python (with numpy and pandas)
 - SQL
 
-## Machine Learning - Python
+## Machine
+## Learning - Python
 [Back to top](#Contents)
 ### Credit Score and Loan Prediction (Group Project)
 Git Repo: [Credit Score and Loan Prediction](https://github.com/cindyd97/Credit-Score-Loan-Default-Prediction)
@@ -207,7 +208,8 @@ Clustering and unsupervised learning is used to predict if cryptocurrencies are 
 Language:
 Python with scikit-learn
 
-## Excel VBA
+## Excel
+## VBA
 [Back to top](#Contents)
 ### Analyzing Stock Data Using VBA Coding in Excel
 Git Repo: [Stock-Analysis-VBA-coding](https://github.com/cindawwgg/Stock-Analysis-VBA-coding/tree/main)
