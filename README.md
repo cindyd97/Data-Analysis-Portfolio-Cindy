@@ -20,7 +20,7 @@ Unauthorized use or reproduction is prohibited.
 - [Javascript and HTML Projects](#Javascript)
 - [Tableau Work](#Tableau)
 - [SQL Projects](#SQL)
-- [Python (Machine Learning) Projects](#Machine)
+- [Machine Learning - Python Projects](#Machine)
 - [Excel - VBA Work](#Excel)
 
 ## Python
